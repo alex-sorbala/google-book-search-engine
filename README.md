@@ -1,5 +1,5 @@
 # Book Search Engine using Google
-![MIT License](https://img.shields.io/badge/license-MIT-green)
+[![License](https://img.shields.io/static/v1?label=License&message=MIT%20License&color=green)](LICENSE)
 
 ## Table of Contents
 - [Description](#description)
@@ -9,8 +9,10 @@
 - [Questions](#questions)
 
 ## Description
-This is a google books search engine that uses GraphQL and Apollo Server in a React application. 
-[Deployed application]()
+This is a google books search engine that uses GraphQL and Apollo Server in a React application.
+
+- [Deployed application](https://book-search-engine-homework.herokuapp.com/) : https://book-search-engine-homework.herokuapp.com/
+
 
 ## Installation
 - `npm install`
@@ -21,7 +23,7 @@ This is a google books search engine that uses GraphQL and Apollo Server in a Re
 Sing Up and Search for books. Save or delete books to your to your account.
 
 ## License
-Covered under [MIT license](./LICENSE).
+Covered under [MIT license](LICENSE).
 
 ## Questions
 Contact me: joedoe@email.com
